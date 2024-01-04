@@ -1,0 +1,21 @@
+.sidebar {
+    margin-top: 50px;
+}
+
+.sidebar  {
+   list-style: none;
+}
+
+.sidebar li {
+    margin-top: 10px;
+}
+
+.sidebar li a {
+   width: 100%;
+
+}
+
+
+.error {
+    color: red;
+}
